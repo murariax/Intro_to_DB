@@ -1,6 +1,1 @@
-Tables_in_alx_book_store
-Authors
-Books
-Customers
-Orders
-Order_Details
+SHOW TABLES;
